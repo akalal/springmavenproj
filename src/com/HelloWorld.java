@@ -11,6 +11,9 @@ public class HelloWorld {
 		this.name = name;
 	}
  
+ 	public String getName() {
+		return name;
+	}
 	public void printHello() {
 		System.out.println("Hello ! " + name);
 	}
