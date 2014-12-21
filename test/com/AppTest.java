@@ -1,8 +1,8 @@
-package test.com;
+package com;
 
 import org.junit.Assert;
 import org.junit.Test;
-import src.com.App; 
+import com.App; 
 public class AppTest {
  
 	@Test
