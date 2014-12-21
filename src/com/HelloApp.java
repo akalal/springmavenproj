@@ -1,8 +1,8 @@
-package src.com;
+package com;
  
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import src.com.HelloWorld;
+import com.HelloWorld;
  
 public class HelloApp {
 	public static void main(String[] args) {

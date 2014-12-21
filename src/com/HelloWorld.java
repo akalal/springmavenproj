@@ -1,4 +1,4 @@
-package src.com;
+package com;
  
 /**
  * Spring bean

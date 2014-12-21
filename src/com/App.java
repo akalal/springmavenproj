@@ -1,4 +1,4 @@
-package src.com;
+package com;
 
 import java.util.UUID;
  
