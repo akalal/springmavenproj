@@ -1,6 +1,6 @@
 To run the project:
 
-1) Download the project
+1) Clone the project using git URL - https://github.com/akalal/springmavenproj.git
 
 2) run command "mvn package" to build, package and execute junit test cases 
 
